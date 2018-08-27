@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pheels</string>
+    <string name="splash">Pheels</string>
+    <string name="slide_1_title">Hi! I\'m Phil.</string>
+    <string name="slide_1_description">I\'d like to be your new friend.</string>
+    <string name="slide_2_title">I\'m a chatbot.</string>
+    <string name="slide_2_description">I talk. And I learn from the things you tell me.</string>
 </resources>

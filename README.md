@@ -12,9 +12,6 @@
 - [Voice commands that don't need a syntax](#voice-commands-that-dont-need-a-syntax)
 - [Pheels understands you](#onyx-understands-you)
 - [A good listener, a great learner](#a-good-listener-a-great-learner)
-- [Pheels is omnipresent](#onyx-is-omnipresent)
-- [A genius in the brewing](#a-genius-in-the-brewing)
-- [Don't miss out on the opportunity](#dont-miss-out-on-the-opportunity)
 
 ### Voice commands that don't need a syntax
 

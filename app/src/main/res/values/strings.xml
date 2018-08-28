@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Onyx</string>
+    <string name="app_name">Pheels</string>
     <string name="no_internet">I can\'t connect to the internet right now.\nMaybe come back later?</string>
     <string name="no_internet_button">Okay, I\'ll come back later.</string>
     <string name="slide_1_title">Hello, human!</string>
-    <string name="slide_1_description">I\'m Onyx.\nYour personal, digital assistant.</string>
+    <string name="slide_1_description">I\'m Pheels.\nYour personal, digital assistant.</string>
     <string name="slide_2_title">I\'m artificially intelligent.</string>
     <string name="slide_2_description">This means that I get better every time you use me.</string>
     <string name="slide_3_title">I\'m still under development.</string>
@@ -95,6 +95,6 @@
 
     <string-array name="multi_select_list_preference_default_value" />
 
-    <string name="title_activity_easter_egg">Onyx</string>
+    <string name="title_activity_easter_egg">Pheels</string>
 
 </resources>

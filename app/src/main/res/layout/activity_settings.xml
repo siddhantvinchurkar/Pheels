@@ -12,7 +12,7 @@
         android:id="@+id/toolbar"
         android:background="@color/colorPrimary"
         android:title="@string/settings_title"
-        android:subtitle="Tweak Onyx to your liking"
+        android:subtitle="Tweak Pheels to your liking"
         android:titleTextColor="@color/colorWhite"
         android:subtitleTextColor="@color/colorWhite">
     </Toolbar>

@@ -2,7 +2,7 @@
 # Pheels
 
 
-### *Pheels is an artificially intelligent assistive chatbot that can help you place orders with DHL or have a simple conversation.*
+### *Pheels is an artificially intelligent assistive chatbot that can help you deal with depression or have a simple conversation.*
 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/siddhantvinchurkar/onyx)
 
@@ -28,20 +28,8 @@ With state of the art [AI tech](https://en.wikipedia.org/wiki/Artificial_intelli
 
 Pheels harnesses the power of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). The more you use Pheels, the better she gets at understanding you.
 
-### Pheels is omnipresent.
-
-From an [Android app](https://play.google.com/store/apps/details?id=com.marv) to a [Facebook Messenger chatbot](https://www.facebook.com/onyxai), Pheels strives to venture onto new platforms.
-
-### A genius in the brewing.
-
-Given enough time and data, Pheels is capable of evolving into a real-life replica of Jarvis from [Iron Man](http://www.imdb.com/title/tt0371746/).
-
-### Don't miss out on the opportunity.
-
-The **first one thousand people** can get a sneak peek at Pheels's [Android app](https://play.google.com/store/apps/details?id=com.marv) by becoming a beta tester on Google Play.
-
 ### Questions? Queries?
 
-Connect with me on social media and we'll keep in touch.
+Connect with us on social media and we'll keep in touch.
 
 [Twitter](https://twitter.com/SidVinchurkar) | [Facebook](https://www.facebook.com/sidvinchurkar) | [Instagram](https://www.instagram.com/sidvinchurkar/?hl=en) | [LinkedIn](https://www.linkedin.com/in/siddhantvinchurkar/) | [Wordpress](https://siddhantvinchurkar.wordpress.com/)

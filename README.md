@@ -19,11 +19,11 @@ Pheels comes bundled with [NLP](https://en.wikipedia.org/wiki/Natural_language_p
 
 ### Pheels understands you.
 
-With state of the art [AI tech](https://en.wikipedia.org/wiki/Artificial_intelligence), Pheels can almost read your emotions. She can tell if you're happy and console you when you're sad.
+With state of the art [AI tech](https://en.wikipedia.org/wiki/Artificial_intelligence), Pheels can almost read your emotions. He can tell if you're happy and console you when you're sad.
 
 ### A good listener, a great learner.
 
-Pheels harnesses the power of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). The more you use Pheels, the better she gets at understanding you.
+Pheels harnesses the power of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). The more you use Pheels, the better he gets at understanding you.
 
 ### Questions? Queries?
 
